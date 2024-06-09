@@ -15,7 +15,7 @@ HotelBooking is a user-friendly website for convenient hotel reservations. With 
 ## Getting Started
 To get started with the HotelBooking website, follow these steps:
 
-1. Clone the repository: `https://github.com/Addiee68/hotel-booking-website.git`
+1. Clone the repository: `https://github.com/pradhandip/hotel-booking-website.git`
 2. Open the project folder in your code editor.
 3. Run the project on a local server.
 
