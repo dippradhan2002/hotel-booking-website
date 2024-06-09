@@ -1,0 +1,21 @@
+{
+    "name": "AntOrb",
+    "short_name": "AntOrb",
+    "start_url": "/index.php",
+    "display": "standalone",
+    "background_color": "#FFFFFFF",
+    "theme_color": "#FFFFFF",
+    "icons": [
+      {
+        "src": "app_logo_android_studio_new.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "name_and_logo_black.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
